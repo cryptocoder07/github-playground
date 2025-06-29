@@ -1,0 +1,22 @@
+index.html
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My First Website</title>
+  </head>
+  <body>
+    <h1>👋 Hi, I'm Chaithanya</h1>
+    <p>This is my very first website hosted on GitHub!</p>
+
+    <h2>🌟 Things I Enjoy</h2>
+    <ul>
+      <li>Coffee</li>
+      <li>Coding</li>
+      <li>Late-night ideas 🌙</li>
+    </ul>
+
+    <p>Check out my GitHub profile: 
+      <a href="https://github.com/cryptocoder07" target="_blank">Click here</a>
+    </p>
+  </body>
+</html>
