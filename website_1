@@ -1,22 +1,21 @@
-index.html
 <!DOCTYPE html>
 <html>
   <head>
-    <title>My First Website</title>
+    <title>My Playground Site</title>
   </head>
   <body>
-    <h1>👋 Hi, I'm Chaithanya</h1>
-    <p>This is my very first website hosted on GitHub!</p>
-
-    <h2>🌟 Things I Enjoy</h2>
+    <h1 style="color: crimson;">Welcome to My GitHub Playground</h1>
+    
+    <p style="color: teal;">This is my first GitHub Pages website!</p>
+    
     <ul>
-      <li>Coffee</li>
-      <li>Coding</li>
-      <li>Late-night ideas 🌙</li>
+      <li style="color: orange;">Coding</li>
+      <li style="color: violet;">Coffee</li>
+      <li style="color: skyblue;">Late-night vibes 🌙</li>
     </ul>
-
-    <p>Check out my GitHub profile: 
-      <a href="https://github.com/cryptocoder07" target="_blank">Click here</a>
+    
+    <p style="color: gray;">
+      Visit <a href="https://github.com/cryptocoder07" style="color: gold;">my GitHub</a>
     </p>
   </body>
 </html>
